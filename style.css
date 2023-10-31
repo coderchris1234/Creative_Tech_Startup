@@ -145,3 +145,24 @@ h1{
  box-shadow: 10px 10px 20px rgba(2, 121, 233, 0.2);
  
 }
+
+
+
+.third-section{
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 20px;
+}
+.learning-community{
+  width: 500px;
+}
+
+
+.forth-section{
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 20px;
+}
+.team-work{
+  width: 500px;
+}
