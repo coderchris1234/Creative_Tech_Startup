@@ -3,7 +3,7 @@ body{
    margin: 0;
   padding: 0;
 }
-.big-div{
+#big-div{
   background-color:rgba(4,9,30,0.7)
 }
 #header-container{
@@ -165,4 +165,27 @@ h1{
 }
 .team-work{
   width: 500px;
+}
+
+
+.fifth-section{
+  display: flex;
+  justify-content: space-evenly;
+  background-color:rgba(4,9,30,0.7)
+}
+.learning-info{
+  text-align: center;
+  color: #00ffff;
+  font-weight: bold;
+  font-size: 20px;
+}
+.fifth-ul{
+  padding: 30px;
+  width: 500px;
+}
+.fifth-li{
+  margin-bottom: 10px;
+}
+strong{
+  color: #FFFFFF;
 }
